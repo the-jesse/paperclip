@@ -1,3 +1,5 @@
+> **This is a public fork of [paperclipai/paperclip](https://github.com/paperclipai/paperclip).** It is not a private fork — anyone can view, clone, and contribute to this repository.
+
 <p align="center">
   <img src="doc/assets/header.png" alt="Paperclip — runs your business" width="720" />
 </p>
